@@ -41,8 +41,7 @@ Questions in the mind of an HTML author are:
 * Does this menu belong in in the navigation in the header?
 * Should this additional reference be an aside, or a separate section?
 
-These questions deal with structure, hierarchy, and meaning, which are
-are concerns of the content layer (HTML).
+These questions deal with structure, hierarchy, and meaning, which are concerns of the content layer (HTML).
 
 When defining the presentation layer (CSS), here are the questions we ask
 ourselves:
